@@ -1,15 +1,52 @@
-# Pong In Unity
+# Pong Made In Unity
 
-This is a project from the University of Idaho remote campus in Coeur d'Alene, Idaho. <br />
+<!-- This is a project from Cthe University of Idaho remote campus in Coeur d'Alene, Idaho. <br />
 <br />
 The current release, v1.0.0 <br />
-</br>
+</br> -->
 
-## Development Team
+## Quick Launch
 -------------------
-<b> </b>(Team Lead, Graduated)<br />
-<b>J</b>(Developer, Graduated)<br />
-<b>P</b>(Developer, Senior)<br />
+- Double Click the pong.exe file and it will launch.<br />
+- Use the 'w' and 's' keys to move the player 1 paddle on the left <br />
+- Use the "up arrow" and "down arrow" keys to move the player 2 paddle on the right<br />
+- First Player to 10 points wins the game<br />
+- To pause the game and access the pause menu and help screen press 'esc'<br />
+- - To quit the game from the pause menu click on "quit"
+- - To resume the game click on "resume" 
+<br />
+
+## Cloning The Git Repository
+-------------------
+- Double Click the pong.exe file and it will launch.<br />
+- Use the 'w' and 's' keys to move the player 1 paddle on the left <br />
+- Use the "up arrow" and "down arrow" keys to move the player 2 paddle on the right<br />
+- First Player to 10 points wins the game<br />
+- To pause the game and access the pause menu and help screen press 'esc'<br />
+- - To quit the game from the pause menu click on "quit"
+- - To resume the game click on "resume" 
+<br />
+
+## Installing Unity
+-------------------
+- Double Click the pong.exe file and it will launch.<br />
+- Use the 'w' and 's' keys to move the player 1 paddle on the left <br />
+- Use the "up arrow" and "down arrow" keys to move the player 2 paddle on the right<br />
+- First Player to 10 points wins the game<br />
+- To pause the game and access the pause menu and help screen press 'esc'<br />
+- - To quit the game from the pause menu click on "quit"
+- - To resume the game click on "resume" 
+<br />
+
+## Compiling the Code
+-------------------
+- Double Click the pong.exe file and it will launch.<br />
+- Use the 'w' and 's' keys to move the player 1 paddle on the left <br />
+- Use the "up arrow" and "down arrow" keys to move the player 2 paddle on the right<br />
+- First Player to 10 points wins the game<br />
+- To pause the game and access the pause menu and help screen press 'esc'<br />
+- - To quit the game from the pause menu click on "quit"
+- - To resume the game click on "resume" 
 <br />
 
 <!-- ## Tech Stack
@@ -24,14 +61,13 @@ The current release, v1.0.0 <br />
 <b>Project Management: </b>Trello <br />
 <br /> -->
 
-## Demo
+## Screen Shots
 -----------------
 <br />
 <br />
 
-## Future Improvements
+<!-- ## Future Improvements
 ---------------------
-With a new team of student
 - 
 - 
-- 
+-  -->
