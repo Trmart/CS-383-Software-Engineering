@@ -12,7 +12,7 @@ The current release, v1.0.0 <br />
 <b>P</b>(Developer, Senior)<br />
 <br />
 
-## Tech Stack
+<!-- ## Tech Stack
 -----------------
 <b>Front-end Hosting: </b>AWS Amplify <br />
 <b>Front-end: </b>React <br />
@@ -22,7 +22,7 @@ The current release, v1.0.0 <br />
 <b>Database: </b>AWS RDS MySQL <br />
 <b>Source Control: </b>GitHub <br />
 <b>Project Management: </b>Trello <br />
-<br />
+<br /> -->
 
 ## Demo
 -----------------
