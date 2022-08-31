@@ -40,15 +40,14 @@ The current release, v1.0.0 <br />
 - Depending on the components you selected, you may see additional prompts    before installing. Follow the prompts and click“Install”. Installing      Unity may take some time. After the installation is finished, Unity        will be installed on your computer. <br />
 <br />
 
-## Compiling the Code
+## Compiling the Code and Building the Game
 -------------------
-- Double Click the pong.exe file and it will launch.<br />
-- Use the 'w' and 's' keys to move the player 1 paddle on the left <br />
-- Use the "up arrow" and "down arrow" keys to move the player 2 paddle on the right<br />
-- First Player to 10 points wins the game<br />
-- To pause the game and access the pause menu and help screen press 'esc'<br />
-- - To quit the game from the pause menu click on "quit"
-- - To resume the game click on "resume" 
+- If the code is changed, you will need to recompile the code and rebuild the game. <br />
+- Open the unity editor and load the Pong project
+- Unity will auto import and compile the code you changed from Visual Studio or VS Code. <br />
+- As long as Unity doesn't generate any compilation errors, you can move onto building. <br />
+- Click on "file" in the top left corner of the unity editor, then click "Build & Run". <br />
+- Unity will automatically compile everything into the necessary files and create one convenient Pong application file that you can click on whenever you would like to   play. Note Unity creates several other files and folders that must be in the same directory of the Pong application for the game to run. <br />
 <br />
 
 <!-- ## Tech Stack
